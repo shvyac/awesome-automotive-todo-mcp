@@ -46,6 +46,8 @@ INPUT情報 ──▶ ToDo ──▶ OUTPUT成果物
 - [doorstop](https://github.com/doorstop-dev/doorstop) - Git で要件を管理し、トレーサビリティを確保する。(690★)
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - テストと要件の管理システム。(1.6k★)
 
+車両全体・社内システム全体といった大規模な要件ツリーの管理、開発後の更新(as-built 同期、ベースライン)、AI/MCP での運用については、姉妹リスト [awesome-requirements-system-ai](https://github.com/shvyac/awesome-requirements-system-ai) も参照してください。
+
 ## 2. ToDo・プロジェクト管理
 
 - [OpenProject](https://github.com/opf/openproject) - 主要なオープンソース PM ソフト。親子タスクとガントに対応。
@@ -91,6 +93,7 @@ INPUT情報 ──▶ ToDo ──▶ OUTPUT成果物
 
 ## Awesome リスト(関連)
 
+- [awesome-requirements-system-ai](https://github.com/shvyac/awesome-requirements-system-ai) - 階層的な要件ツリー(車両全体・社内IT全体)の管理と更新、AI/MCP での運用に使える OSS の一覧。(姉妹リスト)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 「Task Management & To-do Lists」「Software Development - Project Management」カテゴリあり。
 - [awesome-project-management (shahedbd)](https://github.com/shahedbd/awesome-project-management) - PM 全般のリソース集。(813★)
 - [awesome-project-management (brianjking)](https://github.com/brianjking/awesome-project-management)
